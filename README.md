@@ -92,7 +92,7 @@ Tier 3 members can submit requests for additional functionality:
 - 🔁 Lifetime access applies to tools available in your current tier at the time of purchase
 - 📅 Upgrading tiers grants access to additional tools and future modules at that level
 
-Full license: [NullShield.com/license.html](https://nullshield.com/license.php)
+Full license: [NullShield.com/license.php](https://nullshield.com/license.php)
 
 ---
 
